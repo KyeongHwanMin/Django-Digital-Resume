@@ -1,5 +1,4 @@
 ## Django-Digital-Resume
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/17818416/141928092-0a9e42e7-ff89-4a2f-a3e3-30ab74faab05.gif)
 
 - 프로젝트 소개 :  온라인 이력서
 - 기술 스택 : Python, Django, HTML, CSS, Bootstrap, Docker, AWS, Git, Github, SQLite
@@ -7,6 +6,7 @@
     - 웹 서비스 API 서버 개발
     - Django Template 사용하여 화면 개발
     
+ ![ezgif com-gif-maker](https://user-images.githubusercontent.com/17818416/141928092-0a9e42e7-ff89-4a2f-a3e3-30ab74faab05.gif)
     
    
    ### 메인 페이지
