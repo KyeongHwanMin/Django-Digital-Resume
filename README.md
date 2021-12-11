@@ -26,7 +26,6 @@
     ![image](https://user-images.githubusercontent.com/17818416/141928652-cccde5d4-8a01-4f9e-8629-e09c5b762ced.png)
 
 
-
   - 스킬 내용 작성
 
   ![image](https://user-images.githubusercontent.com/17818416/141928704-d56974cb-e0f8-4456-a041-8e6b3a5830ea.png)
